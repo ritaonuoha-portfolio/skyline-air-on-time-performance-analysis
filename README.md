@@ -1,10 +1,10 @@
-# skyline-air-on-time-performance-analysis
+# Skyline-Air-On-Time-Performance-Analysis
 Excel and Power Query analysis of 1,000 airline flights: cleaning raw data, PivotTable analysis and an interactive dashboard to find why on-time performance is declining and where to act first.
 # Skyline Air On-Time Performance Review
 
 An Excel and Power Query analysis of one year of airline flight records, built to find out why on-time performance has been slipping and where an operations team should look first.
 
-![Skyline Air on-time dashboard](https://github.com/ritaonuoha-portfolio/skyline-air-on-time-performance-analysis/commit/8951938fb894318772e074050b98f7175b7ba244))
+![Skyline Air on-time dashboard](https://github.com/ritaonuoha-portfolio/skyline-air-on-time-performance-analysis/commit/8951938fb894318772e074050b98f7175b7ba244)
 
 ## Project Overview
 
